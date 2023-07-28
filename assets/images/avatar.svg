@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 101.16 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #0652dd;
+      }
+    </style>
+  </defs>
+  <g id="_1" data-name="1">
+    <g>
+      <rect class="cls-1" width="101.16" height="100"/>
+      <g id="_396_Account_Avatar_User" data-name="396, Account, Avatar, User">
+        <g>
+          <path class="cls-2" d="m50.07,49.4c-12.64,0-23.06,10.1-23.37,22.5h46.74c-.3-12.4-10.72-22.5-23.37-22.5Z"/>
+          <path class="cls-2" d="m50.07,27c5.92,0,10.72,4.75,10.72,10.6s-4.8,10.6-10.72,10.6-10.72-4.75-10.72-10.6,4.8-10.6,10.72-10.6Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
