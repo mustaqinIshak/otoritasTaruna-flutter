@@ -4,6 +4,6 @@
         <bitmap android:gravity="fill" android:src="@drawable/background"/>
     </item>
     <item>
-        <bitmap android:gravity="center" android:src="@drawable/logo_splash_screen"/>
+        <bitmap android:layout_height="fill_parent" android:gravity="center" android:src="@drawable/splash"/>
     </item>
 </layer-list>

@@ -40,7 +40,7 @@ class _AbsenScreenState extends State<AbsenScreen>
         backgroundColor: Color.fromARGB(255, 0, 76, 138),
         bottom: TabBar(controller: _tabController, tabs: const <Widget>[
           Tab(
-            child: Text("Absen Aple"),
+            child: Text("Absen Apel"),
           ),
           Tab(
             child: Text("Absen Perkuliahan"),

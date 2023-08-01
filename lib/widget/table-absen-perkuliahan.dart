@@ -193,13 +193,32 @@ List<DataRow> _createRows(List<AbsenKuliah>? data) {
       return flag;
     }
 
+    Widget colorAbsen(String item) {
+      if (item == "H") {
+        return Text(
+          item,
+          style: TextStyle(color: Colors.green, fontWeight: FontWeight.w700),
+        );
+      } else if (item == "A") {
+        return Text(
+          item,
+          style: TextStyle(color: Colors.red, fontWeight: FontWeight.w700),
+        );
+      } else {
+        return Text(
+          item,
+          style: TextStyle(color: Colors.blue, fontWeight: FontWeight.w700),
+        );
+      }
+    }
+
     return DataRow(
       cells: [
         DataCell(Text("${nomor}")),
         DataCell(Text(item.matakuliah)),
         for (int i = 0; i < 18; i++)
           if (checkValue(item.data, i + 1))
-            DataCell(Text(item.data[index]["status"]))
+            DataCell(colorAbsen(item.data[index]["status"] as String))
           else
             DataCell(Text("-")),
         // DataCell(Text("no")),

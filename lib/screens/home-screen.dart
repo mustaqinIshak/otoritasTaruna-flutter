@@ -144,6 +144,11 @@ class _HomeScreenState extends State<HomeScreen> {
     }
 
     final deviceSize = MediaQuery.of(context).size;
+    final pointPrestasi =
+        Provider.of<Dashboard>(context, listen: true).pointPrestasi;
+    final pointPelanggaran =
+        Provider.of<Dashboard>(context, listen: true).pointPelanggaran;
+
     return Scaffold(
       // backgroundColor: const Color.fromARGB(255, 0, 76, 138),
       body: Container(
@@ -210,8 +215,22 @@ class _HomeScreenState extends State<HomeScreen> {
               SizedBox(
                 height: 10,
               ),
-              PointPrestasiWidget(isLoading: _isLoading),
-              PointPelanggaranWidget(isLoading: _isLoading),
+              pointPelanggaran.length == 0 && pointPrestasi.length == 0
+                  ? Container(
+                      // width: deviceSize.width,
+                      // height: deviceSize.height,
+                      child: Center(
+                        child: Text("Tidak ada point pelanggaran/prestasi"),
+                      ),
+                    )
+                  : Container(
+                      child: Column(
+                        children: [
+                          PointPrestasiWidget(isLoading: _isLoading),
+                          PointPelanggaranWidget(isLoading: _isLoading),
+                        ],
+                      ),
+                    )
             ],
           ),
         ),
