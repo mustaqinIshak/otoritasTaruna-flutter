@@ -1,0 +1,4 @@
+#Mon Jul 31 19:17:30 WITA 2023
+base.0=C\:\\Users\\Takin\\Documents\\Github\\otoritasTaruna-flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

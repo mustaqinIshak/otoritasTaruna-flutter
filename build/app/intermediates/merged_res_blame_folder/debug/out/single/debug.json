@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.example.otoritas_taruna_client.app-merged_res-14:/drawable-xhdpi_splash.png.flat",
+        "source": "com.example.otoritas_taruna_client.app-main-8:/drawable-xhdpi/splash.png"
+    },
+    {
+        "merged": "com.example.otoritas_taruna_client.app-merged_res-14:/drawable-hdpi_splash.png.flat",
+        "source": "com.example.otoritas_taruna_client.app-main-8:/drawable-hdpi/splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\drawable_launch_background.xml.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\drawable-xxhdpi_splash.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\drawable-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\drawable-mdpi_splash.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\drawable-mdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\drawable-v21_background.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\drawable-v21\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\drawable-xxxhdpi_logo_splash_screen.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\drawable-xxxhdpi\\logo_splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "com.example.otoritas_taruna_client.app-merged_res-14:/drawable-xxhdpi_splash.png.flat",
+        "source": "com.example.otoritas_taruna_client.app-main-8:/drawable-xxhdpi/splash.png"
+    },
+    {
+        "merged": "com.example.otoritas_taruna_client.app-merged_res-14:/drawable-xxxhdpi_splash.png.flat",
+        "source": "com.example.otoritas_taruna_client.app-main-8:/drawable-xxxhdpi/splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\drawable-mdpi_logo_splash_screen.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\drawable-mdpi\\logo_splash_screen.png"
+    },
+    {
+        "merged": "com.example.otoritas_taruna_client.app-merged_res-14:/drawable-mdpi_splash.png.flat",
+        "source": "com.example.otoritas_taruna_client.app-main-8:/drawable-mdpi/splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\mipmap-xxhdpi_splash.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\mipmap-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\drawable-xhdpi_logo_splash_screen.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\drawable-xhdpi\\logo_splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\drawable-xhdpi_splash.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\drawable-xhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\mipmap-xxxhdpi_splash.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\mipmap-xxxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\mipmap-xhdpi_splash.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\mipmap-xhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\drawable_background.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\drawable-hdpi_logo_splash_screen.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\drawable-hdpi\\logo_splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\drawable-xxhdpi_logo_splash_screen.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\drawable-xxhdpi\\logo_splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\drawable-hdpi_splash.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\mipmap-mdpi_splash.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\mipmap-mdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\drawable-xxxhdpi_splash.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\drawable-xxxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-merged_res-14:\\mipmap-hdpi_splash.png.flat",
+        "source": "C:\\Users\\Takin\\.gradle\\daemon\\7.5\\com.example.otoritas_taruna_client.app-main-8:\\mipmap-hdpi\\splash.png"
+    }
+]
